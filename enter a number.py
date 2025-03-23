@@ -8,4 +8,5 @@ except:
 if ival > 0 :
     print('good job')
 else:
-    print('not a number')
+    print('not a integer')
+ 
